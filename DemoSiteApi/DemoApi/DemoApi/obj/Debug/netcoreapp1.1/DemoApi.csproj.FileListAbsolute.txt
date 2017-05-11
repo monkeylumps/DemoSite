@@ -1,0 +1,9 @@
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\bin\Debug\netcoreapp1.1\DemoApi.deps.json
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\bin\Debug\netcoreapp1.1\DemoApi.runtimeconfig.json
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\bin\Debug\netcoreapp1.1\DemoApi.runtimeconfig.dev.json
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\bin\Debug\netcoreapp1.1\DemoApi.dll
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\bin\Debug\netcoreapp1.1\DemoApi.pdb
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\obj\Debug\netcoreapp1.1\DemoApi.csprojResolveAssemblyReference.cache
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\obj\Debug\netcoreapp1.1\DemoApi.AssemblyInfo.cs
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\obj\Debug\netcoreapp1.1\DemoApi.dll
+C:\code Repos\git\DemoSite\DemoSiteApi\DemoApi\DemoApi\obj\Debug\netcoreapp1.1\DemoApi.pdb
